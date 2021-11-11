@@ -6,6 +6,7 @@ public class Third {
 
 
         System.out.println("second message");
+        System.out.println("third message");
     }
 
 }
